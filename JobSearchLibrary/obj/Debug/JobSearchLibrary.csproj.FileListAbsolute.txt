@@ -1,0 +1,6 @@
+C:\Users\jacob\source\repos\JobTrackerBeta\JobSearchLibrary\bin\Debug\JobSearchLibrary.dll
+C:\Users\jacob\source\repos\JobTrackerBeta\JobSearchLibrary\bin\Debug\JobSearchLibrary.pdb
+C:\Users\jacob\source\repos\JobTrackerBeta\JobSearchLibrary\obj\Debug\JobSearchLibrary.csprojAssemblyReference.cache
+C:\Users\jacob\source\repos\JobTrackerBeta\JobSearchLibrary\obj\Debug\JobSearchLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\JobTrackerBeta\JobSearchLibrary\obj\Debug\JobSearchLibrary.dll
+C:\Users\jacob\source\repos\JobTrackerBeta\JobSearchLibrary\obj\Debug\JobSearchLibrary.pdb
