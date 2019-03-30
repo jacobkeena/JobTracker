@@ -1,4 +1,5 @@
 # JobTracker
-Application to use in order to keep track of positions and job information throughout one's job search
-
-This project is currently still being built! 
+This is an application of my own design. When given an excel template to aid in tracking jobs that I have 
+applied for, I thought, why not make an application that could do this all for me!
+This project required a lot of individual study of XAML and the MVVM model in order to construct it.
+This is what I have so far as it is still currently being built! The T-SQL database scripts have not been added at this time.
