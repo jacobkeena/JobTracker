@@ -1,6 +1,6 @@
 USE [master]
 GO
-/****** Object:  Database [JobSearch]    Script Date: 4/3/2019 6:02:58 PM ******/
+/****** Object:  Database [JobSearch]    Script Date: 4/3/2019 6:01:58 PM ******/
 CREATE DATABASE [JobSearch]
  CONTAINMENT = NONE
  ON  PRIMARY 
